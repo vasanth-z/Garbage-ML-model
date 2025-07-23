@@ -68,11 +68,17 @@ Dataset/
 │ ├── Non-Biodegradable/
 
 │ ├── Legal Drugs/
+
 │ └── Illegal Drugs/
+
 ├── val/
+
 ├── Biodegradable/
+
 ├── Non-Biodegradable/
+
 ├── Legal Drugs/
+
 └── Illegal Drugs/
 
 
