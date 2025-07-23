@@ -142,11 +142,49 @@ This project contains modules for both **waste classification** and **drug class
 
 ---
 
-### 🔧 Step 1: Install Dependencies
+### 🔧 Install Dependencies
 
-Install all required Python packages using `pip`:
+1.Clone the Repository
 
 ```bash
-pip install tensorflow opencv-python streamlit pillow numpy
+git clone https://github.com/vasanth-z/Garbage-ML-model.git
+cd garbage-classification-cnn
+```
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Tkinter UI
+
+```bash
+python ui.py
+```
+
+4. Run Streamlit App
+
+ ```bash
+streamlit run streamlit.py
+```
+---
+
+### 📬 Contact
+
+VASANTH S
+Email: svasanth2392005@gmail.com
+
+
+
+---
+
+### LICENSE
+
+MIT License
+
+Copyright (c) 2025 VASANTH S
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 
