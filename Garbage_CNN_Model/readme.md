@@ -72,7 +72,8 @@ Dataset/
 ├── Legal Drugs/
 └── Illegal Drugs/
 
-##CNN Architecture (Same for Waste & Drugs)
+## CNN Architecture (Same for Waste & Drugs)
+
 python
 Copy
 Edit
@@ -97,6 +98,7 @@ model = Sequential([
 - 📉 Loss Function: Binary Crossentropy
 
 - 🚀 Optimizer: Adam
+  ---
 
 ## 🖥️ User Interfaces
 ### 📌 Tkinter
