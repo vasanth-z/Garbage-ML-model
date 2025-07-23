@@ -61,8 +61,7 @@ This project classifies uploaded or real-time images into one of two categories:
 ## 🗃️ Dataset Structure
 
 Dataset/
-├── train/
-│ ├── Biodegradable/
+├── train/│ ├── Biodegradable/
 │ ├── Non-Biodegradable/
 │ ├── Legal Drugs/
 │ └── Illegal Drugs/
@@ -73,20 +72,6 @@ Dataset/
 └── Illegal Drugs/
 
 
-Dataset/
-├── train/
-│   ├── Biodegradable/
-│   ├── Non-Biodegradable/
-│   ├── Legal Drugs/
-│   └── Illegal Drugs/
-└── val/
-    ├── Biodegradable/
-    ├── Non-Biodegradable/
-    ├── Legal Drugs/
-    └── Illegal Drugs/
-
-
-> `train/` and `val/` represent training and validation datasets respectively.
 
 ---
 
