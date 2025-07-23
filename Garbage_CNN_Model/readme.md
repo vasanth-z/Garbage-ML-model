@@ -72,6 +72,15 @@ Dataset/
 ├── Legal Drugs/
 └── Illegal Drugs/
 
+
+> `train/` and `val/` represent training and validation datasets respectively.
+
+---
+
+### 💊 Drug Dataset Folder Structure
+
+
+
 ## CNN Architecture (Same for Waste & Drugs)
 
 python
